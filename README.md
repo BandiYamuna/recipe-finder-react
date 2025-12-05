@@ -1,3 +1,42 @@
+# 🍽️ Recipe Finder App | React + Vite
+
+🔗 **Live Demo:** https://glittering-gelato-71bbc8.netlify.app/
+
+A modern and responsive Recipe Finder application built using **ReactJS** and powered by **TheMealDB API**. Users can search for recipes by ingredients and view step-by-step cooking instructions in a clean popup modal interface.
+
+---
+
+## ✨ Features
+
+- 🔍 Search recipes by ingredient name  
+- 📋 Pop-up modal showing detailed cooking instructions  
+- 🍱 Additional recipe categories and improved UI  
+- ⚡ Fast performance using Vite + React Hooks  
+- 📱 Fully responsive (Mobile + Tablet + Desktop)  
+- 🌐 Works like a real mobile app without glitches  
+- 🔄 Real-time data fetching from RESTful APIs
+
+---
+
+## 🧑‍🍳 Tech Stack
+
+| Technology | Purpose |
+|-----------|---------|
+| **ReactJS** | UI development (functional components + hooks) |
+| **Vite** | Fast development and production build tool |
+| **TheMealDB API** | Fetching recipe data |
+| **CSS** | Styling and layout |
+| **Netlify** | Live hosting and deployment |
+
+---
+
+## 📸 Screenshots
+
+> (You can add screenshots here later — I will help if you want!)
+
+Example placeholders:
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
