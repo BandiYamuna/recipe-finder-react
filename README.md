@@ -29,8 +29,7 @@ A modern and responsive Recipe Finder application built using **ReactJS** and po
 | **Netlify** | Live hosting and deployment |
 
 ---
-
-## 📸 Screenshots
+![WhatsApp Image 2025-12-05 at 11 08 10 PM](https://github.com/user-attachments/assets/63ba22ae-b11f-430b-807c-2fc6d025411b)
 
 > (You can add screenshots here later — I will help if you want!)
 
