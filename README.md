@@ -34,17 +34,22 @@ A modern and responsive Recipe Finder application built using **ReactJS** and po
 <img width="1891" height="838" alt="Screenshot 2025-12-05 220956" src="https://github.com/user-attachments/assets/5080f47b-b217-4aa0-9a87-de970b72c9eb" />
 <img width="1903" height="850" alt="Screenshot 2025-12-05 221013" src="https://github.com/user-attachments/assets/c81823a9-2e8b-416e-82fe-046683042e83" />
 <img width="1783" height="832" alt="Screenshot 2025-12-05 221024" src="https://github.com/user-attachments/assets/b92ab237-fdae-41ae-a2e1-4a865d3b8931" />
+
+<img width="1907" height="800" alt="image" src="https://github.com/user-attachments/assets/b9a322b0-9300-4580-8863-3ef564f49058" />
+
 <img width="1919" height="599" alt="Screenshot 2025-12-05 221037" src="https://github.com/user-attachments/assets/2829d6a2-1bc3-4777-bce6-c50aa7647d4d" />
 
 
 
 
 
-![WhatsApp Image 2025-12-05 at 11 08 10 PM](https://github.com/user-attachments/assets/63ba22ae-b11f-430b-807c-2fc6d025411b)
+
 
 ![WhatsApp Image 2025-12-05 at 11 08 09 PM](https://github.com/user-attachments/assets/6b0ae503-c3c8-4af4-baf5-75c69f7d56c1)
 
 ![WhatsApp Image 2025-12-05 at 11 08 10 PM (1)](https://github.com/user-attachments/assets/87d7daaa-8ce5-4b68-99a0-9ddda7207e97)
+
+![WhatsApp Image 2025-12-05 at 11 08 10 PM](https://github.com/user-attachments/assets/63ba22ae-b11f-430b-807c-2fc6d025411b)
 
 ![WhatsApp Image 2025-12-05 at 11 08 10 PM (3)](https://github.com/user-attachments/assets/e0b98af1-494b-49d4-83a3-b23e1351284f)
 
